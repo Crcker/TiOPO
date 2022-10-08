@@ -1,0 +1,16 @@
+D:\TiOPO\lw1tests\obj\Debug\net5.0\lw1tests.csproj.AssemblyReference.cache
+D:\TiOPO\lw1tests\obj\Debug\net5.0\lw1tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\TiOPO\lw1tests\obj\Debug\net5.0\lw1tests.AssemblyInfoInputs.cache
+D:\TiOPO\lw1tests\obj\Debug\net5.0\lw1tests.AssemblyInfo.cs
+D:\TiOPO\lw1tests\obj\Debug\net5.0\lw1tests.csproj.CoreCompileInputs.cache
+D:\TiOPO\lw1tests\bin\Debug\net5.0\lw1tests.exe
+D:\TiOPO\lw1tests\bin\Debug\net5.0\lw1tests.deps.json
+D:\TiOPO\lw1tests\bin\Debug\net5.0\lw1tests.runtimeconfig.json
+D:\TiOPO\lw1tests\bin\Debug\net5.0\lw1tests.runtimeconfig.dev.json
+D:\TiOPO\lw1tests\bin\Debug\net5.0\lw1tests.dll
+D:\TiOPO\lw1tests\bin\Debug\net5.0\ref\lw1tests.dll
+D:\TiOPO\lw1tests\bin\Debug\net5.0\lw1tests.pdb
+D:\TiOPO\lw1tests\obj\Debug\net5.0\lw1tests.dll
+D:\TiOPO\lw1tests\obj\Debug\net5.0\ref\lw1tests.dll
+D:\TiOPO\lw1tests\obj\Debug\net5.0\lw1tests.pdb
+D:\TiOPO\lw1tests\obj\Debug\net5.0\lw1tests.genruntimeconfig.cache

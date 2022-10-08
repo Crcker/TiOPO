@@ -1,0 +1,14 @@
+D:\TiOPO\lw1\bin\Debug\netcoreapp3.1\lw1.exe
+D:\TiOPO\lw1\bin\Debug\netcoreapp3.1\lw1.deps.json
+D:\TiOPO\lw1\bin\Debug\netcoreapp3.1\lw1.runtimeconfig.json
+D:\TiOPO\lw1\bin\Debug\netcoreapp3.1\lw1.runtimeconfig.dev.json
+D:\TiOPO\lw1\bin\Debug\netcoreapp3.1\lw1.dll
+D:\TiOPO\lw1\bin\Debug\netcoreapp3.1\lw1.pdb
+D:\TiOPO\lw1\obj\Debug\netcoreapp3.1\lw1.csproj.AssemblyReference.cache
+D:\TiOPO\lw1\obj\Debug\netcoreapp3.1\lw1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TiOPO\lw1\obj\Debug\netcoreapp3.1\lw1.AssemblyInfoInputs.cache
+D:\TiOPO\lw1\obj\Debug\netcoreapp3.1\lw1.AssemblyInfo.cs
+D:\TiOPO\lw1\obj\Debug\netcoreapp3.1\lw1.csproj.CoreCompileInputs.cache
+D:\TiOPO\lw1\obj\Debug\netcoreapp3.1\lw1.dll
+D:\TiOPO\lw1\obj\Debug\netcoreapp3.1\lw1.pdb
+D:\TiOPO\lw1\obj\Debug\netcoreapp3.1\lw1.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\werty\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\werty\\.nuget\\packages"
+    ]
+  }
+}
